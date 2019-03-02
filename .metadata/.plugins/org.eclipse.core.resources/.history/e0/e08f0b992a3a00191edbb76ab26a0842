@@ -1,0 +1,5 @@
+package JavaClient.view;
+
+public class ClientLogin {
+
+}
